@@ -24,7 +24,7 @@ Na podstawie modeli logicznych przygotowano kompletne skrypty DDL (Data Definiti
 3. **Plikowa baza SQLite** – wdrożona na zdalnym serwerze akademickim za pośrednictwem platformy JupyterHub.
 
 Kod źródłowy skryptów wdrożeniowych oraz pliki konfiguracyjne zostały umieszczone w dedykowanym repozytorium podprojektu. Link do zasobów zamieszczono poniżej:
-* **Link do repozytorium kodu:** `https://github.com/oski486/BD_Implementacja_Zasilenie_zad2`
+* **Link do repozytorium kodu:** `https://github.com/oski486/BD_WprowadzanieBD/tree/main`
 
 Skrypt dla środowiska PostgreSQL
 --------------------------------
