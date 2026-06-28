@@ -1,13 +1,11 @@
-========================================================================
-Rozdział 4: Implementacja fizyczna i zasilanie bazy danych
-========================================================================
+==============================================
+Implementacja fizyczna i zasilanie bazy danych
+==============================================
 
 :Autorzy:
     1. Oskar Mąka
     2. Daniel Szokało
     3. Dawid Szokało
-:Kierunek: Informatyka Techniczna, Politechnika Wrocławska
-:Przedmiot: Bazy Danych / Projekt Laboratoryjny
 
 Wprowadzenie
 ============
